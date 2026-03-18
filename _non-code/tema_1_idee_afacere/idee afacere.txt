@@ -1,0 +1,130 @@
+Ce vinzi:
+Servicii complete de social media management pentru restaurante, automatizate cu AI - de la fotografii și postări până la răspunsuri la reviews și rapoarte.
+Cui vinzi:
+Restaurante mici și medii (independente sau lanțuri 2-10 locații) care au mâncare bună dar social media slab și nu au timp/bani pentru specialist full-time.
+
+Creează o listă de criterii pentru identificarea restaurantelor ideale 
+pentru servicii social media management în Cluj-Napoca.
+
+Înainte să generezi, iată 3 exemple de restaurante evaluate:
+
+EXEMPLU 1: RESTAURANT IDEAL
+
+Nume: Trattoria Buongiorno
+Rating Google: 4.5⭐ (230 reviews)
+Instagram: @trattoriabuongiorno
+- Followers: 840
+- Ultima postare: acum 3 săptămâni
+- Calitate poze: Mediu-slabă (telefon, lighting inconsistent)
+- Frecvență: 1-2 postări/lună
+- Engagement rate: ~1.8%
+
+Google Reviews: 18 reviews fără răspuns (ultimele 2 luni)
+
+Website: Da, dar outdated
+
+Price range: €€ (15-30 EUR/persoană)
+
+Ani în business: 5 ani
+
+EVALUARE: PERFECT TARGET
+Motivare:
+- Rating excelent (4.5) = mâncare bună, clienți mulțumiți
+- Social media FOARTE slab = oportunitate mare îmbunătățire
+- Price range mediu = au buget pentru €599/lună
+- Business stabil (5 ani) = nu risc închidere
+- Reviews multe dar negestionate = pierd oportunități
+
+═══════════════════════════════════════════════════════════════
+
+EXEMPLU 2: EVITĂ 
+
+Nume: Fast Food Express
+Rating Google: 3.2⭐ (89 reviews)
+Instagram: @fastfoodexpress_cluj
+- Followers: 2,340
+- Ultima postare: ieri
+- Calitate: Profesională
+- Frecvență: 5-7 postări/săptămână
+- Engagement rate: 4.2%
+
+Google Reviews: Toate primite răspuns în <24h
+
+Price range: € (<10 EUR/persoană)
+
+Ani în business: 1.5 ani
+
+EVALUARE: NU E TARGET
+Motivare:
+- Rating scăzut (3.2) = probleme operaționale, orice social media 
+  e zadarnic dacă mâncarea e proastă
+- Social media DEJA excelent = au specialist sau agenție, 
+  nu au nevoie de tine
+- Price range foarte scăzut = probabil nu au buget €599/lună
+- Business nou (1.5 ani) = risc faliment, instabilitate
+
+═══════════════════════════════════════════════════════════════
+
+EXEMPLU 3: POSIBIL DAR NU IDEAL 
+
+Nume: Bistro La Provence
+Rating Google: 4.7⭐ (450 reviews)
+Instagram: @bistrolaprovence
+- Followers: 180
+- Ultima postare: acum 6 luni
+- Calitate: Slabă
+- Frecvență: 0 (practic mort)
+
+Google Reviews: 35 reviews fără răspuns
+
+Price range: €€€ (30-60 EUR/persoană)
+
+Ani în business: 12 ani
+
+EVALUARE: POSIBIL (cu rezerve)
+Motivare:
+- Rating EXCELENT (4.7) = mâncare top, reputație solidă
+- Social media COMPLET mort = oportunitate URIAȘĂ
+- Price range premium = SIGUR au buget
+- Business foarte stabil (12 ani) = zero risc
+
+DAR:
+- Followers FOARTE puțini (180) = au ignorat social media 
+  complet ani de zile
+- Posibil să fie sceptici/rezistenți la idee ("ne-a mers bine 
+  12 ani fără Instagram")
+- Nevoie pitch mai persuasiv, posibil trial gratuit 1 lună
+
+═══════════════════════════════════════════════════════════════
+
+Acum, bazat pe aceste 3 exemple, generează:
+
+1. CRITERII GREEN FLAGS (restaurante IDEALE) 
+   - Rating Google (range)
+   - Instagram metrics (followers, frecvență, ultima postare)
+   - Google Reviews (câte fără răspuns = red flag)
+   - Price range (indicator buget)
+   - Ani în business (stabilitate)
+   - Alte semne pozitive
+
+2. CRITERII RED FLAGS (EVITĂ) ⛔
+   - Rating prea scăzut (sub X)
+   - Social media deja excelent (au specialist)
+   - Price range prea scăzut (lipsă buget)
+   - Business prea nou (risc)
+   - Alte deal-breakers
+
+3. CRITERII YELLOW FLAGS (POSIBIL dar atenție) ⚠️
+   - Situații ambigue
+   - Când merită efort extra (pitch mai bun)
+   - Când să cer trial/discount
+
+4. PROCES EVALUARE (step-by-step)
+   - Pasul 1: Ce verific primul?
+   - Pasul 2: Ce metrics calculez?
+   - Pasul 3: Cum decid DA/NU/MAYBE?
+
+Format: Structurat, bullet points, cu threshold-uri concrete 
+(ex: "Rating minim 4.0", nu "rating bun").
+
+Generează acum.

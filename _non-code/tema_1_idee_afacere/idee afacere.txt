@@ -1,0 +1,34 @@
+Ce vinzi:
+Servicii complete de social media management pentru restaurante, automatizate cu AI - de la fotografii și postări până la răspunsuri la reviews și rapoarte.
+Cui vinzi:
+Restaurante mici și medii (independente sau lanțuri 2-10 locații) care au mâncare bună dar social media slab și nu au timp/bani pentru specialist full-time.
+ZERO - SHOT PROMPTING
+Creează o listă de criterii pentru identificarea restaurantelor ideale 
+pentru servicii social media management în [ORAȘUL TĂU].
+
+Criterii să includă:
+- Rating minim Google
+- Indicatori social media slab (ce să caut)
+- Semne că au buget (price range, ani activitate)
+- Red flags (ce restaurante să evit)
+
+Format: Listă structurată, bullet points, acționabilă.
+FEW-SHOT PROMPTING
+Creează o listă de criterii pentru identificarea restaurantelor ideale 
+pentru servicii social media management în Cluj-Napoca.
+Înainte să generezi, iată 3 exemple de restaurante evaluate:
+Exemplu 1
+Exemplu 2
+Exemplu 3
+CoT PROMPTING
+Un restaurant are 840 followers Instagram, 15 likes medii per post.
+Calculează engagement rate-ul și evaluează dacă e bun sau rău.
+
+Gândește pas cu pas:
+1. Care e formula engagement rate?
+2. Aplică formula cu numerele date
+3. Care e benchmark-ul industry pentru restaurante?
+4. Compară rezultatul cu benchmark
+5. Concluzie finală cu justificare
+META PROMPTING 
+vreau sa realizez un plan de afaceri pentru dezvoltarea unei afaceri in domeniul AI Social media pentru restaurante.  
